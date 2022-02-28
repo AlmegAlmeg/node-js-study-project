@@ -1,0 +1,4 @@
+{
+    "dbName": "mongodb://localhost/study_project_db",
+    "jwtSecretKey": "1ghSA2%#@1AS3X2Aadvzcc%E#6w3$@sGD5dg^#1zA3"
+}
